@@ -4,7 +4,7 @@
 
 @layer base {
     html {
-        @apply bg-slate-800;
-        @apply text-white text-lg font-bold;
+        /* @apply bg-slate-50;
+        @apply text-black text-lg font-bold; */
     }
 }
