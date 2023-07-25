@@ -5,4 +5,7 @@
 	<li>
 		<a href="/typography">Typography</a>
 	</li>
+	<li>
+		<a href="/flex">Flex</a>
+	</li>
 </ul>
