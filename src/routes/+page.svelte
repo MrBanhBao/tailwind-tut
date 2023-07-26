@@ -11,4 +11,7 @@
 	<li>
 		<a href="/grid">Grid</a>
 	</li>
+	<li>
+		<a href="/layout">Layout</a>
+	</li>
 </ul>
