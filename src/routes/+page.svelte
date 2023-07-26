@@ -14,4 +14,7 @@
 	<li>
 		<a href="/layout">Layout</a>
 	</li>
+	<li>
+		<a href="/border">Border</a>
+	</li>
 </ul>
