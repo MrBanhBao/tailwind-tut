@@ -17,4 +17,7 @@
 	<li>
 		<a href="/border">Border</a>
 	</li>
+	<li>
+		<a href="/fx">Effects & Filter</a>
+	</li>
 </ul>
